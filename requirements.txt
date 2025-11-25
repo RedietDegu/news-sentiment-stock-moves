@@ -1,0 +1,27 @@
+# Core scientific stack
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+
+# Notebooks
+jupyterlab>=4.0
+ipykernel>=6.29
+
+# NLP / sentiment
+nltk>=3.9
+textblob>=0.18
+
+# Market data & technical analysis
+yfinance>=0.2
+TA-Lib>=0.5.0
+PyNance>=0.5.0
+
+# Stats
+scipy>=1.11
+
+# Utilities
+python-dotenv>=1.0
+
+
